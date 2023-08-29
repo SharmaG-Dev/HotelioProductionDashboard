@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3fe7ca4.css",
+    "main.js": "/static/js/main.20e954f2.js",
+    "static/js/496.c8bc0447.chunk.js": "/static/js/496.c8bc0447.chunk.js",
+    "static/media/HotelioLogo.png": "/static/media/HotelioLogo.630f4a0dbb4af3c99cbf.png",
+    "index.html": "/index.html",
+    "main.c3fe7ca4.css.map": "/static/css/main.c3fe7ca4.css.map",
+    "main.20e954f2.js.map": "/static/js/main.20e954f2.js.map",
+    "496.c8bc0447.chunk.js.map": "/static/js/496.c8bc0447.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3fe7ca4.css",
+    "static/js/main.20e954f2.js"
+  ]
+}
