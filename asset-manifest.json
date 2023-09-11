@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.98c95e92.css",
-    "main.js": "/static/js/main.278982e0.js",
+    "main.css": "/static/css/main.cb9663b6.css",
+    "main.js": "/static/js/main.6f9764d0.js",
     "static/js/496.c8bc0447.chunk.js": "/static/js/496.c8bc0447.chunk.js",
     "static/media/HotelioLogo.png": "/static/media/HotelioLogo.630f4a0dbb4af3c99cbf.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -9,12 +9,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.98c95e92.css.map": "/static/css/main.98c95e92.css.map",
-    "main.278982e0.js.map": "/static/js/main.278982e0.js.map",
+    "main.cb9663b6.css.map": "/static/css/main.cb9663b6.css.map",
+    "main.6f9764d0.js.map": "/static/js/main.6f9764d0.js.map",
     "496.c8bc0447.chunk.js.map": "/static/js/496.c8bc0447.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98c95e92.css",
-    "static/js/main.278982e0.js"
+    "static/css/main.cb9663b6.css",
+    "static/js/main.6f9764d0.js"
   ]
 }
